@@ -3,8 +3,7 @@ Requirements:
 1. Install metamask extension or use an ethereum-friendly browser.
 2. Use a local blockchain like ganache. Don't use actual cryptocurrency! 
 3. Node command line client. (because you gotta run tests, migrate contracts, and launch it)
-
-Note: Node.js modules come bundled with this (as part of dependencies). So you don't need to install all of them. But you must have the node command line tool and truffle library installed.
+4. Install the node modules listed in dependencies
 
 How to run it:
 
