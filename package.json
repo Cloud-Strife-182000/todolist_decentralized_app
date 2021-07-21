@@ -1,7 +1,7 @@
 {
-  "name": "karapanpoochi",
+  "name": "todolist_dapp",
   "version": "1.0.0",
-  "description": "Valaipalam ku poochi venuma",
+  "description": "Decentralized to-do list web app with a smart contract.",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
@@ -10,8 +10,8 @@
     "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && sexit 1"
   },
-  "author": "Srikanth. G. R. Who did you think?",
-  "license": "Use however you want",
+  "author": "Srikanth_G_R",
+  "license": "Use however you want.",
   "devDependencies": {
     "@truffle/contract": "^4.3.24",
     "bootstrap": "^4.1.3",
