@@ -1,4 +1,4 @@
-# decentralized_nft_app
+#todolist_decentralized_app
 
 Requirements:
 
