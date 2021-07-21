@@ -1,5 +1,3 @@
-#todolist_decentralized_app
-
 Requirements:
 
 1. Install metamask extension or use an ethereum-friendly browser.
