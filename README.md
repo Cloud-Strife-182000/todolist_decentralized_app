@@ -3,7 +3,7 @@ Requirements:
 1. Install metamask extension or use an ethereum-friendly browser.
 2. Use a local blockchain like ganache. Don't use actual cryptocurrency! 
 3. Node command line client. (because you gotta run tests, migrate contracts, and launch it)
-4. Install the node modules listed in dependencies
+4. Install the node modules listed in dependencies in package.json.
 
 How to run it:
 
